@@ -1,21 +1,20 @@
 body{
     background-color: #fffaff;
+    font-family: verdana;
 }
 h1 {
     color: black;
     text-align: left;
-    font-family: verdana;
 }
 p{
     color: black;
-    font-family: verdana;
     text-align: left;
 }
 a{
-    color: rgb(255, 202, 255);
+    color: black;
 }
 a:hover{
-    color: white;
+    color: purple;
 }
 img {
     align-items: right;
